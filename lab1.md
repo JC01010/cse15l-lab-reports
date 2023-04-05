@@ -10,6 +10,7 @@ Below is lab report #1 - writing a blog post about remote access - logging into 
 ![Installing VSCode](https://raw.githubusercontent.com/JC01010/cse15l-lab-reports/main/part1.png)
 
  1. Go to https://code.visualstudio.com/ and install VSCode. Select the proper option for macOS or Windows.
+ 2. You may need to click through the downloader. When done, the window should be a blank window; navigate to the terminal at the bottom. 
 
 # Remotely Connecting
 ![Remotely Connecting](https://raw.githubusercontent.com/JC01010/cse15l-lab-reports/main/part2.png)
