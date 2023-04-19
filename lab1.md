@@ -9,16 +9,16 @@ Below is lab report #1 - writing a blog post about remote access - logging into 
 
 ![Installing VSCode](https://raw.githubusercontent.com/JC01010/cse15l-lab-reports/main/part1.png)
 
- 1. Go to https://code.visualstudio.com/ and install VSCode. Select the proper option for macOS or Windows.
+ 1. Go to [Visual Studio](https://code.visualstudio.com/) and install VSCode. Select the proper option for macOS or Windows.
  2. You may need to click through the downloader. When done, the window should be a blank window; navigate to the terminal at the bottom. 
 
 # Remotely Connecting
 ![Remotely Connecting](https://raw.githubusercontent.com/JC01010/cse15l-lab-reports/main/part2.png)
 
 First, reset your course-specific account.
-1. Go to https://sdacs.ucsd.edu/~icc/index.php to lookup your course-specific account. You will need your UCSD username and PID.
+1. Go to [sdacs.ucsd.edu](https://sdacs.ucsd.edu/~icc/index.php) to lookup your course-specific account. You will need your UCSD username and PID.
  2. Click the button for your CSE 15L course-specific account. It starts with `cs15lsp23`. Copy this username.
- 3. Go to https://password.ucsd.edu/ and enter the course-specific username above.
+ 3. Go to [password.ucsd.edu](https://password.ucsd.edu/) and enter the course-specific username above.
  4. Reset the password.
 
 Then, navigate to VS Code.
@@ -35,3 +35,4 @@ To get used to the command line, the following commands were tried:
 1. `cd`. `cd` is used to change directories.
 2. `ls`. `ls` lists out all folders/files in your current directory.
 3. `ls -a`. `ls -a` lists all hidden folders/files (that start with `.`) in your current directory.
+4. `cd [directory]` goes to the directory in the command.
