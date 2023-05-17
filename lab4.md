@@ -36,10 +36,13 @@ I ran the test by running the `test.sh` file, which contained commands to run th
 First, I typed `git add .<enter>` to add the change to the working directory. Then, I typed `git commit -m "Fixed index1 to index2"<enter>` to commit with the message "Fixed index1 to index2". Lastly, I typed `git push<enter>` to push the change.
 
 Git add all:
+
 ![enter image description here](https://github.com/JC01010/cse15l-lab-reports/blob/main/Screenshot%202023-05-17%20155955.png?raw=true)
 
 Git commit, with message:
+
 ![enter image description here](https://github.com/JC01010/cse15l-lab-reports/blob/main/Screenshot%202023-05-17%20160026.png?raw=true)
 
 Git Push:
+
 ![enter image description here](https://github.com/JC01010/cse15l-lab-reports/blob/main/Screenshot%202023-05-17%20160045.png?raw=true)
